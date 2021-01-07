@@ -7,3 +7,4 @@ Creating a new branck is quick AND simple.
 How to manage a branck?
 Fix a bug.
 Do sth.
+Fix another bug.
