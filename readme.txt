@@ -1,2 +1,2 @@
 a readme file
-We need to keep this file clean.
+we decide to implement a new feature next version.
